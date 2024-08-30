@@ -9,3 +9,4 @@ To do list:
 2. Login page
 3. Page to view all entries
 4. Edit entry page/popup
+5. Stye the submissions page
