@@ -1,12 +1,12 @@
 html {
-    background-image: url("../images/website-background.jpeg");
+    background-color: rgb(44, 38, 41);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
  }
 
 .nav-bar ul {
-    background-color: rgba(204, 159, 77, 0.466);
+    background-color: rgba(7, 6, 6, 0.50);
     max-height: 25px;
     width: 1800px;
     height: 25px;
@@ -20,6 +20,7 @@ html {
 .nav-bar li {
     display: inline;
     float: right;
+    color: rgba(227, 215, 215, 1);
     margin: auto 10px;
     height: 100%;
     font-size: 1.2em;
